@@ -1,0 +1,4 @@
+vagrantboxes
+============
+
+Sample vagrantfiles
